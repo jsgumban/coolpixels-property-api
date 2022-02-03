@@ -1,0 +1,32 @@
+{
+  "propertyId": 123456,
+  "propertyName": "45 George Street, Sydney NSW 2000",
+  "income": {
+    "January": 1200,
+    "February": 800,
+    "March": 900,
+    "April": 300,
+    "May": 450,
+    "June": 555,
+    "July": 1000,
+    "August": 1200,
+    "September": 1400,
+    "October": 1605,
+    "November": 1605,
+    "December": 1900
+  },
+  "expense": {
+    "January": 20,
+    "February": 10,
+    "March": 50,
+    "April": 60,
+    "May": 75,
+    "June": 14,
+    "July": 46,
+    "August": 30,
+    "September": 10,
+    "October": 55,
+    "November": 22,
+    "December": 10
+  }
+}

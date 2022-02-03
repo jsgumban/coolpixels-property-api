@@ -1,0 +1,32 @@
+{
+  "propertyId": 789012,
+  "propertyName": "33 Palmer Avenue, Melbourne VIC 3000",
+  "income": {
+    "January": 100,
+    "February": 200,
+    "March": 300,
+    "April": 400,
+    "May": 500,
+    "June": 600,
+    "July": 700,
+    "August": 800,
+    "September": 900,
+    "October": 1000,
+    "November": 1100,
+    "December": 1200
+  },
+  "expense": {
+    "January": 50,
+    "February": 20,
+    "March": 30,
+    "April": 20,
+    "May": 25,
+    "June": 34,
+    "July": 36,
+    "August": 60,
+    "September": 90,
+    "October": 100,
+    "November": 92,
+    "December": 20
+  }
+}
